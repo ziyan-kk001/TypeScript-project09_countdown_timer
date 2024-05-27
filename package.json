@@ -1,0 +1,15 @@
+{
+  "name": "project09_countdown_timer-github",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "ziyan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  }
+}
